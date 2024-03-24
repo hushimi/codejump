@@ -44,4 +44,8 @@ git checkout beginner01
 
 # merge branch to HEAD
 git merge beginner01
+
+# delete branch
+git branch -d localBranch
+git push origin --delete remoteBranch
 ```
