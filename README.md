@@ -6,6 +6,20 @@
 
 ---
 
+# 手順
+
+- デザインからセクションを分ける
+- セクションでなんのタグ使うか決める
+- ***
+
+# Memo
+
+[picture tag](https://zero-plus.io/media/html-picture/)
+
+- レスポンシブに画像を切り替えるために使用する
+
+---
+
 ## First commit
 
 ```bash
