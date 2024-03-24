@@ -14,9 +14,18 @@
 
 # Memo
 
+## Beginner01
+
 [picture tag](https://zero-plus.io/media/html-picture/)
 
 - レスポンシブに画像を切り替えるために使用する
+  [Google Photos link](https://theblueback.com/post-20230115172246)
+- Google Photos から共有リンク作成
+
+## Beginner02
+
+- HERO イメージ
+- 画像と文章を隣り合わせにする
 
 ---
 
