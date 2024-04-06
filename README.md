@@ -14,18 +14,20 @@
 
 # Memo
 
-## Beginner01
+## Beginner01(portfolio)
 
-[picture tag](https://zero-plus.io/media/html-picture/)
+- [picture tag](https://zero-plus.io/media/html-picture/)
+  - レスポンシブに画像を切り替えるために使用する
+- [Google Photos link](https://theblueback.com/post-20230115172246)
+  - Google Photos から共有リンク作成
+- News Table(dl,dt,dd)
 
-- レスポンシブに画像を切り替えるために使用する
-  [Google Photos link](https://theblueback.com/post-20230115172246)
-- Google Photos から共有リンク作成
-
-## Beginner02
+## Beginner02(book store)
 
 - HERO イメージ
 - 画像と文章を隣り合わせにする
+
+## Beginner03(EC サイト)
 
 ---
 
