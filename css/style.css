@@ -8,6 +8,7 @@ body {
     background-color: #2c2c2c;
     font-size: 0.75rem;
     font-family: sans-serif;
+    min-height: 1vh;
 }
 a {
     color: #fff;
@@ -36,4 +37,12 @@ li {
 }
 .nav-bar_right {
     font-size: 0.5rem;
+}
+
+.wrapper {
+    width: 95%;
+    margin: 0 auto;
+}
+.pages_item a {
+    color: #fff;
 }

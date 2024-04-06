@@ -49,9 +49,8 @@ nav {
     align-items: center;
     justify-content: space-between;
 }
-mav .menu, nav .login {
+nav .menu, nav .login {
     display: flex;
-    align-items: center;
 }
 nav .menu li {
     margin-right: 14px;
@@ -185,9 +184,8 @@ nav .login li {
         padding: 36px 16px 16px 16px;
     }
     nav {
-        overflow-x: scroll;
+       overflow-x: scroll;
     }
-
     /* 商品 */
     #item {
         flex-direction: column;
